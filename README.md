@@ -7,7 +7,7 @@ AI, Engineering, and Shipping Code
 I switched from Electrical Engineering to Computer Science, and since then I’ve been shaping my path toward AI engineering through backend systems, FastAPI, AI architecture, cloud infrastructure, and problem solving.
 
 * 🌍  I'm based in Islamabad
-* ✉️  You can contact me at [sreabdullah1@gmail.com](mailto:sreabdullah1@gmail.com)
+* ✉️  You can contact me at [abdullah.owais04@gmail.com](mailto:abdullah.owais04@gmail.com)
 * 🧠  I'm currently learning System design and Cloud infra for AI
 * 👥  I'm looking to collaborate on Agentic workflows that deliver business value.
 
